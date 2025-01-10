@@ -1,0 +1,1 @@
+# połączenie do arduino / inne
